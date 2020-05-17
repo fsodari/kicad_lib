@@ -1,8 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP CP2615
-D USB Audio to I2S Digital Audio Bridge
+D Silicon Labs, USB Audio to I2S Digital Audio Bridge
 F https://www.silabs.com/documents/public/data-sheets/cp2615-datasheet.pdf
+$ENDCMP
+#
+$CMP CS5340
+D Cirrus Logic, 101dV, 192kHz, Multi-Bit Audio A/D Converter
+F https://statics.cirrus.com/pubs/proDatasheet/CS5340_F2.pdf
 $ENDCMP
 #
 #End Doc Library
