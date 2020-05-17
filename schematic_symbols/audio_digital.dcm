@@ -5,6 +5,11 @@ D Silicon Labs, USB Audio to I2S Digital Audio Bridge
 F https://www.silabs.com/documents/public/data-sheets/cp2615-datasheet.pdf
 $ENDCMP
 #
+$CMP CS4350
+D 192kHz Stereo DAC with Integrated PLL
+F https://statics.cirrus.com/pubs/proDatasheet/CS4350_F4.pdf
+$ENDCMP
+#
 $CMP CS5340
 D Cirrus Logic, 101dV, 192kHz, Multi-Bit Audio A/D Converter
 F https://statics.cirrus.com/pubs/proDatasheet/CS5340_F2.pdf
