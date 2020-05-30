@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BGX13P
+D BGX13P Blue Gecko Bluetooth Module Data Sheet
+F https://www.silabs.com/documents/public/data-sheets/bgx13p-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
