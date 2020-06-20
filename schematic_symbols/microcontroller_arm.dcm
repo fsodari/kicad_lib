@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CY8C5888LTI-LP097
+D 32-bit Arm Cortex-M3, Programmable System-on-Chip
+K psoc psoc5lp arm microcontroller
+F https://www.cypress.com/file/45906/download
+$ENDCMP
+#
+#End Doc Library

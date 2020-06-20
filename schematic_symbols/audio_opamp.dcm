@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA168x
+D SoundPlus 36-V, Single-Supply, 10-MHz, Rail-to-Rail Output Operational Amplifiers
+K headphone audio opamp
+F https://www.ti.com/lit/gpn/opa1688.pdf
+$ENDCMP
+#
+#End Doc Library
